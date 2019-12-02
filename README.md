@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center" style="border-bottom: none;">🚀 Watson Assistant (formerly Conversation) Sample Application</h1>
 <h3 align="center">This Node.js app demonstrates the Watson Assistant service in a simple interface engaging in a series of simple simulated banking tasks.</h3>
 <p align="center">
@@ -156,3 +157,7 @@ Find more open source projects on the
 [node_link]: (http://nodejs.org/)
 [npm_link]: (https://www.npmjs.com/)
 [sign_up]: https://cloud.ibm.com/registration
+=======
+# ChatBoss
+trabalho técnico da faculdade usando a Api do Watson
+>>>>>>> f58d0522da137802f81d54d323da67628929aa5e
