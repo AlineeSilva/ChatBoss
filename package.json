@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watson-developer-cloud/assistant-simple.git"
+    "url": "git+https://github.com/AlineeSilva/ChatBoss"
   },
   "license": "Apache-2.0",
   "dependencies": {
@@ -40,13 +40,6 @@
     "jest": "^24.9.0",
     "phantomjs-prebuilt": "^2.1.16",
     "supertest": "^4.0.2"
-  },
-  "bugs": {
-    "url": "https://github.com/watson-developer-cloud/assistant-simple/issues"
-  },
-  "homepage": "https://github.com/watson-developer-cloud/assistant-simple#readme",
-  "directories": {
-    "test": "test"
-  },
-  "author": ""
+  }
+
 }
